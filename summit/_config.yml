@@ -1,3 +1,0 @@
-remote theme: https://github.com/phx/hugo-theme-nix
-plugins:
-- jekyll-remote-theme
